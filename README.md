@@ -1,1 +1,3 @@
-# ITP-Project
+Introduction to Programming (ITP) Projects
+
+This repository contains a collection of projects developed as part of the Introduction to Programming (ITP) course. The projects are designed to strengthen fundamental programming concepts, including problem-solving, algorithm design, control structures, functions, arrays, object-oriented programming, and file handling using C++. Each project reflects the practical application of theoretical concepts learned throughout the course, emphasizing clean code, logical implementation, and progressive skill development. This repository serves as a record of academic work and demonstrates continuous learning and improvement in programming fundamentals.
